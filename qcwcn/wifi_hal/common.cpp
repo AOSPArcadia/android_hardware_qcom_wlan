@@ -26,7 +26,7 @@
 #endif /* has netlink-private */
 #include <dlfcn.h>
 #include <pthread.h>
-#include "wifi_hal.h"
+#include <hardware_legacy/wifi_hal.h>
 #include "common.h"
 #include <errno.h>
 
